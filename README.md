@@ -1,2 +1,3 @@
-# Java_HBG_Proje
-My computational biology project.
+# Java_Bahar_Donemi_Proje
+
+My banking app project.
