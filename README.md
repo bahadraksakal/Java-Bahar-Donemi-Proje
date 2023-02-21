@@ -1,7 +1,5 @@
 # Bankacılık Uygulaması 
 
-Bu uygulamda müşteri ve yetkili kişilere ait paneller bulunur. Bu panneler üzerinden kendilerine tanımlanan (Yetkileri varsa) nesneleri görebilir, düzenleyebilir veya kaldırabilirler.
-
 <h3 align="center" color="Darkblue">Ahmet Bahadır Aksakal</h3>
 <h4 align="center" color="Darkblue">20360859079</h4>
 <h5 align="center" color="Darkblue">Bursa Teknik Üniversitesi - 1. Sınıf 2.Dönem - Nesneye Yönelik Programlama Dersi Proje Ödevi</h5>
@@ -15,9 +13,10 @@ Bu uygulamda müşteri ve yetkili kişilere ait paneller bulunur. Bu panneler ü
         <li>Bankanın müşterileri sisteme eklenebilir.</li>
         <li>Müşteriler için birden fazla vadesiz hesap, vadeli hesap veya yatırım hesabı açılabilir.</li>
         <li>vadeli hesap,vadesiz hesap, ve yatırım hesaplarını kullanmak için gerekli arayüzler farklılık göstermektedir.</li>
-        <li>Müşterilere ait hesaplarla para yatırma, para çekme, kredi çekme, taksit kapatma gibi işlemler yapılabilir.</li>
+        <li>Müşterilere ait hesaplarla para yatırma, para çekme, kredi çekme, taksit kapatma gibi işlemler yapılabilir.</li>        
         <li>Yapılan bu işlemler anlık olarak sisteme yansır.</li>
         <li>Her müşteri bir adet personele atanır, ve bu personel o müşterinin ilgili bilgilerine sistem üzerinden ulaşabilir.</li>
+        <li>Personel arayüzünden, ilgili müşteriye ait bilgiler yeniden düzenelenbilir.</li>
       </ul>
   </li>
   <li>
