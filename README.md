@@ -1,48 +1,83 @@
-# Bankacılık Uygulaması 
+# Banking Transactions App With Gui
 
-<h3 align="center" color="Darkblue">Ahmet Bahadır Aksakal</h3>
-<h4 align="center" color="Darkblue">20360859079</h4>
-<h5 align="center" color="Darkblue">Bursa Teknik Üniversitesi - 1. Sınıf 2.Dönem - Nesneye Yönelik Programlama Dersi Proje Ödevi</h5>
+### Ahmet Bahadır Aksakal
 
-<ol>
-  <li>
-      <h3 color="Red">Program Ne Yapar</h3>
-      <ul>
-        <li>Bu programda bir banka arayüzü simüle edilmiştir.</li>
-        <li>Banka bünyesinde çalışan personeller eklenebilir.</li>
-        <li>Bankanın müşterileri sisteme eklenebilir.</li>
-        <li>Müşteriler için birden fazla vadesiz hesap, vadeli hesap veya yatırım hesabı açılabilir.</li>
-        <li>vadeli hesap,vadesiz hesap, ve yatırım hesaplarını kullanmak için gerekli arayüzler farklılık göstermektedir.</li>
-        <li>Müşterilere ait hesaplarla para yatırma, para çekme, kredi çekme, taksit kapatma gibi işlemler yapılabilir.</li>        
-        <li>Yapılan bu işlemler anlık olarak sisteme yansır.</li>
-        <li>Her müşteri bir adet personele atanır, ve bu personel o müşterinin ilgili bilgilerine sistem üzerinden ulaşabilir.</li>
-        <li>Personel arayüzünden, ilgili müşteriye ait bilgiler yeniden düzenelenbilir.</li>
-      </ul>
-  </li>
-  <li>
-      <h3 color="Red">Projede Kullanılan Teknoloji Ve Diller:</h3>
-      <ul>
-        <li>Java</li>
-        <li>Java - Swing</li>
-      </ul>
-  </li>
-  <li>
-      <h3 color="Red">Nasıl Kullanılır</h3>
-      <ul>
-        <li>Program derlenmiş java dosyası üzerinden çalıştırılır.</li>
-        <li>Program arayüzündeki açıklamalar takip edilir.</li>
-      </ul>
-  </li>  
-  <li>
-      <h3 color="Red">Programdan Görseller:</h3>
-      <ul>        
-        <li><img src="GorsellerReadme/1.png"></li> 
-        <li><img src="GorsellerReadme/2.png"></li>
-        <li><img src="GorsellerReadme/3.png"></li>
-        <li><img src="GorsellerReadme/4.png"></li>
-        <li><img src="GorsellerReadme/5.png"></li>
-      </ul>
-  </li>
-</ol>
+#### 20360859079
 
- 
+****
+
+- [EN : Description :book: :leftwards_arrow_with_hook:](#en)  
+- [TR : Açıklama :book: :leftwards_arrow_with_hook:](#tr)
+
+****
+
+#### [EN]
+
+## Bursa Technical University - 1st Year Spring Semester - Object Oriented Programming Course Project Assignment
+
+1. ### What the Program Does
+    
+      * A bank interface is simulated in this program.
+      * Personnel working within the bank can be added.
+      * The systems of the bank's countries can be added.
+      * More current accounts, time deposit accounts or investment accounts can be opened instantly for customers.
+      * The distributions required to use deposit accounts, current accounts, and investment accounts vary.
+      * Transactions such as depositing money, withdrawing money, withdrawing loans, and closing installments can be carried out with customer accounts.
+      * These operations are automatically reflected in the system.
+      * A personal information is assigned to the customer and information about this personal information can be accessed through the system.
+      * Information about relevant components can be rearranged from the personal interface.
+      
+2. ### Technology and Languages Used in the Project:
+    
+      * Java
+      * Java - Swing
+      
+3. ### How to Use 
+    
+      * The program is run through the compiled java file.
+      * The instructions in the program content are followed.
+      
+4. ### Images from the program:
+    
+    *   ![](GorsellerReadme/1.png)
+    *   ![](GorsellerReadme/2.png)
+    *   ![](GorsellerReadme/3.png)
+    *   ![](GorsellerReadme/4.png)
+    *   ![](GorsellerReadme/5.png)
+
+****
+****
+
+#### [TR]
+
+## Bursa Teknik Üniversitesi - 1. Sınıf Bahar Dönemi - Nesneye Yönelik Programlama Dersi Proje Ödevi
+
+1.  ### Program Ne Yapar
+    
+    *   Bu programda bir banka arayüzü simüle edilmiştir.
+    *   Banka bünyesinde çalışan personeller eklenebilir.
+    *   Bankanın müşterileri sisteme eklenebilir.
+    *   Müşteriler için birden fazla vadesiz hesap, vadeli hesap veya yatırım hesabı açılabilir.
+    *   vadeli hesap,vadesiz hesap, ve yatırım hesaplarını kullanmak için gerekli arayüzler farklılık göstermektedir.
+    *   Müşterilere ait hesaplarla para yatırma, para çekme, kredi çekme, taksit kapatma gibi işlemler yapılabilir.
+    *   Yapılan bu işlemler anlık olarak sisteme yansır.
+    *   Her müşteri bir adet personele atanır, ve bu personel o müşterinin ilgili bilgilerine sistem üzerinden ulaşabilir.
+    *   Personel arayüzünden, ilgili müşteriye ait bilgiler yeniden düzenelenbilir.
+      
+2.  ### Projede Kullanılan Teknoloji Ve Diller:
+    
+    *   Java
+    *   Java - Swing
+      
+3.  ### Nasıl Kullanılır
+    
+    *   Program derlenmiş java dosyası üzerinden çalıştırılır.
+    *   Program arayüzündeki açıklamalar takip edilir.
+      
+4.  ### Programdan Görseller:
+    
+    *   ![](GorsellerReadme/1.png)
+    *   ![](GorsellerReadme/2.png)
+    *   ![](GorsellerReadme/3.png)
+    *   ![](GorsellerReadme/4.png)
+    *   ![](GorsellerReadme/5.png)
